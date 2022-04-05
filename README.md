@@ -1,7 +1,7 @@
 # Peer-review-publications
-No code in this repository. Only links to most relevant scientific publications.
+No code in this repository. Only links to some of my most relevant scientific publications.
 
-**2021**  >>> [Python based program for bacterial genomes comparisons](https://pubmed.ncbi.nlm.nih.gov/34849821/)
+**2021**  >>> [Python program for bacterial genomes comparisons](https://pubmed.ncbi.nlm.nih.gov/34849821/)
  
 **2021**  >>> [Test method based on pooled nasopharyngeal swab samples for SARS-CoV-2 detection](https://www.frontiersin.org/articles/10.3389/fmed.2021.640688/full).
 
