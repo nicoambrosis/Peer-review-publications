@@ -15,5 +15,5 @@ No code in this repository. Only links to some of my most relevant scientific pu
 
 **2016**  >>> [Molecular Biology #1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158752)
 
-**2014**  >>> [Lactobacilli with potentially applications as probiotics]()
+**2014**  >>> [Lactobacilli with potential applications as probiotics]()
 
